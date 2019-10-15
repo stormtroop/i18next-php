@@ -1,5 +1,5 @@
 {
-    "name": "stormtroop/i18next",
+    "name": "stormtroop/i18next-php",
     "description": "PHP class for basic i18next functionality ",
     "version": "0.1.0",
     "keywords": [
