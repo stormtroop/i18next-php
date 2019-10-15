@@ -1,16 +1,22 @@
 {
-    "name": "aiken/i18next",
+    "name": "stormtroop/i18next",
     "description": "PHP class for basic i18next functionality ",
     "version": "0.1.0",
     "keywords": [
         "i18next",
         "i18n"
     ],
-    "homepage": "https://github.com/Mika-/i18next-php",
+    "homepage": "https://github.com/stormtroop/i18next-php",
     "license": "Beerware",
     "authors": [
         {
             "name": "Mika Simanainen",
+            "role": "Developer"
+        },
+        {
+            "name": "Karl Magerl",
+            "email": "karl@g-portal.com",
+            "homepage": "g-portal.com",
             "role": "Developer"
         }
     ],
